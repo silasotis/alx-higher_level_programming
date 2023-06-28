@@ -38,3 +38,4 @@ class MagicClass:
                 circumference of the MagicClass
         """
     return (2 * math.pi * self.__radius)
+
